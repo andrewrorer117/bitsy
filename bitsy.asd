@@ -34,6 +34,7 @@ THE SOFTWARE."
 	       #:array-operations
                #:crypt
                #:cl-hash-util
+	       #:cl-annot
                #:genhash
                #:ieee-floats
                #:let-over-lambda
